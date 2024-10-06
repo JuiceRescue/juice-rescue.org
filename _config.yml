@@ -5,4 +5,4 @@ plugins:
 title: Juice Rescue
 description: A collective effort to save and maintain Juicebox EV Chargers
 
-show_downloads: "false"
+show_downloads: false

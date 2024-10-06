@@ -27,7 +27,7 @@ Now that Enel X is shutting down key infrastructure for these devices, Juice Res
 **Will the Juicebox become a fire hazard?** It depends. If your power supply is rated for fewer amps than the rating of the juicebox, it’s very important for you to configure the charger to an appropriate level before October 11\. Otherwise the charger will get stuck drawing more amps than your system can provide. 
 
 **About us**  
-Juice Rescue is organized in the personal capacities of the following people:
+Juice Rescue is organized by a group of people who own Juiceboxes or whose organizations rely on them. If you have questions about the group, please [add a comment to the Discord chat](https://discord.gg/rBgbGZsA).
 
-- Dr. [J. Nathan Matias](https://natematias.com/), on the tech team at the Ithaca Ecovillage a community who use 43 Juicebox chargers   
-- (other organizers add your name and/or username here)
+<!-- - Dr. [J. Nathan Matias](https://natematias.com/), on the tech team at the Ithaca Ecovillage a community who use 43 Juicebox chargers   
+- (other organizers add your name and/or username here) -->

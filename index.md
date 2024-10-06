@@ -1,40 +1,42 @@
 # Juice Rescue ⚡🔌🚗
 
-Do you own a Juicebox charger? Has your organization, power company, or government energy board developed arrangements with consumers that rely on the Juicebox? Are you frustrated and worried that [Enel X Way is shutting down its North American operations](https://www.juiceboxnorthamerica.com/), including key software the chargers rely on?
+Do you own a JuiceBox charger? Has your organization, power company, or government energy board developed arrangements with consumers that rely on the JuiceBox? Are you frustrated and worried that [Enel X Way is shutting down its North American operations](https://www.juiceboxnorthamerica.com/), including key software the chargers rely on?
 
 Here are three things you can do:
 
 * **Complete this short form to <a href="https://forms.gle/pz8iPAYeZ7cu3ZTq7" class="button">tell us about you</a>**, describe your needs, and share ideas for how you can help. We will use this information for collective organizing and may email you with an occasional update. We will not share your contact information without your permission.
 <!--* **Add your story in the comments below**, if you want journalists and consumer advocacy groups to see your story-->
-* **If you are a writer, organizer, designer, or software developer**, please consider joining the “**Juicepass Rescue**” open source software project:  
-  * [Join the Discord Server](https://discord.gg/rBgbGZsA)  
+* **If you are a writer, organizer, designer, or software developer**, please consider joining the “**Juice Rescue**” open source software project:  
+  * [Join the Discord Server](https://discord.gg/rBgbGZsA)
   * Follow the [Juice Rescue Project](https://github.com/JuiceboxRescue) on Github
 
-## How We're Keeping Juiceboxes Running
+## How we're keeping JuiceBoxes running
 
-Now that Enel X is shutting down key infrastructure for these devices, Juice Rescue is organizing a collective effort aimed at keeping Juiceboxes running:
+Now that Enel X is shutting down key infrastructure for these devices, Juice Rescue is organizing a collective effort aimed at keeping JuiceBoxes running with full functionality:
 
-* Educating people about how to safely keep charging with your Juicebox charger  
-* Organizing technology development on projects like [Juicepassproxy](https://github.com/JuiceboxRescue/juicepassproxy) that can replace some of the functionality of the apps that are shutting down  
-* Coordinating efforts across customers and clients of Enel X to:  
-  * Advocate that Enel X release Juicebox-related intellectual property and source code that would   
-  * Direct public pressure, policy, and legal strategies that could help Enel X meet its promises to customers/clients, and its obligations under the law, including right to repair laws
+* Educating people about how to safely keep charging with your JuiceBox charger
+* Organizing technology development on projects like [Juicepassproxy](https://github.com/JuiceRescue/juicepassproxy) that can replace some of the functionality that will be lost once Enel X shuts down
+* Coordinating efforts across customers and clients of Enel X to:
+  * Advocate that Enel X release JuiceBox-related intellectual property and source code, allowing customers to keep the chargers' full functionality
+  * Direct public pressure, policy, and legal strategies that could help Enel X meet its promises to customers/clients, and its obligations under the law, including [right to repair](https://en.wikipedia.org/wiki/Right_to_repair) laws
 
-## Juicebox FAQ
+## JuiceBox FAQ
 
-**Will my Juicebox shut down on Ocober 11?** Residential juiceboxes will continue to work however they were configured when the system goes down, even after the apps are no longer available. Commercial users and those with special deals with power companies may not be able to charge- please contact your power company or commercial operator with questions.
+**Will my JuiceBox shut down on Ocober 11?** Residential JuiceBoxes will continue to work however they were configured when the system goes down, even after the apps are no longer available. Commercial users and those with special deals with power companies may not be able to charge- please contact your power company or commercial operator with questions.
 
-**Will the Juicebox become a fire hazard?** It depends. If your power supply is rated for fewer amps than the rating of the juicebox, it’s very important for you to configure the charger to an appropriate level before October 11\. Otherwise the charger will get stuck drawing more amps than your system can provide.
+**Will my JuiceBox shut down on October 11?** *Residential JuiceBoxes will continue to charge fine, even after Enel X shuts down their infrastructure.* However, after this day, users won't be able to change the settings, monitor charging, schedule or initiate charging, because these functions are dependent on Enel X's network and app. Commercial users and those with special deals with power companies, on the other hand, may not be able to charge at all; they should contact their commercial operator or power company with questions.
 
-**Can I connect my Juicebox to other systems like Home Assistant?** Yes. The [Juicepassproxy](https://github.com/JuiceboxRescue/juicepassproxy) project allows someone with technical skills to get data out of the Juicebox and 
+**Will my JuiceBox become a fire hazard?** Probably not. But if your circuit breaker and wiring are not properly matched (i.e., sized too low) to the output of your JuiceBox, then you should make sure to configure the charger and lower the maximum output before October 11. Otherwise the charger may draw more amps than your system can provide, which could either trip your breaker or become a fire hazard. efforts like [Juicepassproxy](https://github.com/JuiceRescue/juicepassproxy) should eventually make it easier for users to modify these settings even after Enel X shuts down.
+
+**Can I connect my JuiceBox to other systems like Home Assistant?** Yes. The [Juicepassproxy](https://github.com/JuiceRescue/juicepassproxy) project allows someone with technical skills to get data out of the JuiceBox. We are working to make this software more functional and easier to set up with Home Assistant and other systems.
 
 ## About us
-Juice Rescue is organized by a group of people who own Juiceboxes or whose organizations rely on them. If you have questions about the group, please [add a comment to the Discord chat](https://discord.gg/rBgbGZsA). The discord conversation includes:
+Juice Rescue is organized by a group of people who own JuiceBoxes or whose organizations rely on them. If you have questions about the group, please [join the Discord server](https://discord.gg/rBgbGZsA) and ask. The Discord conversation includes:
 
-* Home juicebox owners who need to manage and maintain EV charging
+* Residential JuiceBox owners who want to continue to monitor and manage their EV chargers over the network
 * A co-op in upstate New York that has 43 chargers
 * Internet of Things developers with experience working with EV charging systems
 * Organizers with experience in relevant intellectual property issues and federal/state regulations
 
-<!-- - Dr. [J. Nathan Matias](https://natematias.com/), on the tech team at the Ithaca Ecovillage a community who use 43 Juicebox chargers   
+<!-- - Dr. [J. Nathan Matias](https://natematias.com/), on the tech team at the Ithaca Ecovillage, a community that uses 43 JuiceBox chargers   
 - (other organizers add your name and/or username here) -->

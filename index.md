@@ -4,7 +4,7 @@ Do you own a Juicebox charger? Has your organization, power company, or governme
 
 Here are three things you can do:
 
-* **[Complete this short form to tell us about you](https://forms.gle/pz8iPAYeZ7cu3ZTq7)**, so you can tell us about your needs/issues, and share ideas for how you can help. We will not share your contact information without your permission  
+* **Complete this short form to [tell us about you](https://forms.gle/pz8iPAYeZ7cu3ZTq7)**, describe your needs, and share ideas for how you can help. We will use this information for collective organizing and may email you with an occasional update. We will not share your contact information without your permission.
 <!--* **Add your story in the comments below**, if you want journalists and consumer advocacy groups to see your story-->
 * **If you are a writer, organizer, designer, or software developer**, please consider joining the “**Juicepass Rescue**” open source software project:  
   * [Join the Discord Server](https://discord.gg/rBgbGZsA)  
@@ -24,10 +24,17 @@ Now that Enel X is shutting down key infrastructure for these devices, Juice Res
 
 **Will my Juicebox shut down on Ocober 11?** Residential juiceboxes will continue to work however they were configured when the system goes down, even after the apps are no longer available. Commercial users and those with special deals with power companies may not be able to charge- please contact your power company or commercial operator with questions.
 
-**Will the Juicebox become a fire hazard?** It depends. If your power supply is rated for fewer amps than the rating of the juicebox, it’s very important for you to configure the charger to an appropriate level before October 11\. Otherwise the charger will get stuck drawing more amps than your system can provide. 
+**Will the Juicebox become a fire hazard?** It depends. If your power supply is rated for fewer amps than the rating of the juicebox, it’s very important for you to configure the charger to an appropriate level before October 11\. Otherwise the charger will get stuck drawing more amps than your system can provide.
+
+**Can I connect my Juicebox to other systems like Home Assistant?** Yes. The [Juicepassproxy](https://github.com/JuiceboxRescue/juicepassproxy) project allows someone with technical skills to get data out of the Juicebox and 
 
 ## About us
-Juice Rescue is organized by a group of people who own Juiceboxes or whose organizations rely on them. If you have questions about the group, please [add a comment to the Discord chat](https://discord.gg/rBgbGZsA).
+Juice Rescue is organized by a group of people who own Juiceboxes or whose organizations rely on them. If you have questions about the group, please [add a comment to the Discord chat](https://discord.gg/rBgbGZsA). The discord conversation includes:
+
+* Home juicebox owners who need to manage and maintain EV charging
+* A co-op in upstate New York that has 43 chargers
+* Internet of Things developers with experience working with EV charging systems
+* Organizers with experience in relevant intellectual property issues and federal/state regulations
 
 <!-- - Dr. [J. Nathan Matias](https://natematias.com/), on the tech team at the Ithaca Ecovillage a community who use 43 Juicebox chargers   
 - (other organizers add your name and/or username here) -->

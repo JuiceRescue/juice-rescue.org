@@ -29,5 +29,5 @@ Now that Enel X is shutting down key infrastructure for these devices, Juice Res
 **About us**  
 Juice Rescue is organized in the personal capacities of the following people:
 
-- Dr. J. Nathan Matias, on the tech team at the Ithaca Ecovillage a community who use 43 Juicebox chargers   
+- Dr. [J. Nathan Matias](https://natematias.com/), on the tech team at the Ithaca Ecovillage a community who use 43 Juicebox chargers   
 - (other organizers add your name and/or username here)

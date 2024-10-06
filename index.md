@@ -8,7 +8,7 @@ Here are three things you can do:
 <!--* **Add your story in the comments below**, if you want journalists and consumer advocacy groups to see your story-->
 * **If you are a writer, organizer, designer, or software developer**, please consider joining the “**Juice Rescue**” open source software project:  
   * [Join the Discord Server](https://discord.gg/rBgbGZsA)
-  * Follow the [Juice Rescue Project](https://github.com/JuiceboxRescue) on Github
+  * Follow the [Juice Rescue Project](https://github.com/JuiceRescue) on Github
 
 ## How we're keeping JuiceBoxes running
 

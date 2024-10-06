@@ -1,6 +1,6 @@
 # Juice Rescue ⚡🔌🚗
 
-Do you own a Juicebox charger? Has your organization, power company, or government energy board developed arrangements with consumers that rely on the Juicebox? Are you frustrated and worried that Enel X is [shutting down its North American operations](https://www.juiceboxnorthamerica.com/), including key software the chargers rely on?
+Do you own a Juicebox charger? Has your organization, power company, or government energy board developed arrangements with consumers that rely on the Juicebox? Are you frustrated and worried that [Enel X Way is shutting down its North American operations](https://www.juiceboxnorthamerica.com/), including key software the chargers rely on?
 
 Here are three things you can do:
 
@@ -10,9 +10,9 @@ Here are three things you can do:
   * [Join the Discord Server](https://discord.gg/rBgbGZsA)  
   * Follow the [Juice Rescue Project](https://github.com/JuiceboxRescue) on Github
 
-## About Juice Rescue
+## How We're Keeping Juiceboxes Running
 
-Now that Enel X is shutting down key infrastructure for these devices, Juice Rescue is organizing a collective effort aimed at:
+Now that Enel X is shutting down key infrastructure for these devices, Juice Rescue is organizing a collective effort aimed at keeping Juiceboxes running:
 
 * Educating people about how to safely keep charging with your Juicebox charger  
 * Organizing technology development on projects like [Juicepassproxy](https://github.com/JuiceboxRescue/juicepassproxy) that can replace some of the functionality of the apps that are shutting down  

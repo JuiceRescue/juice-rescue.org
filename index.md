@@ -10,6 +10,16 @@ Here are three things you can do:
   * [Join the Discord Server](https://discord.gg/rBgbGZsA)
   * Follow the [Juice Rescue Project](https://github.com/JuiceRescue) on Github
 
+**Update Oct 9**: We have compiled a [short PDF guide on Preparing for Enel X Way's Abandonment of JuiceBox EV Charging Software](documents/2024-10-09-preparing-for-enel-x-juicebox-software-abandonment.pdf)
+
+**Update Oct 10**: Contributors to Juice Rescue have worked with Consumer Reports to send a letter to the U.S. Federal Trade Commission urging them to investigate the behavior of Enel X. Here are two quotes from the longer [letter asking the FTC to investigate the behavior of Enel X](documents/2024-10-10-Juicebox-letter-to-FTC.pdf): 
+* "The decision to stop supporting the app that thousands of consumers use to control the charger and the complete loss of functionality for the commercial EV chargers represents an egregious example of how companies are controlling the functionality of a product even after the consumer has purchased the device."
+* "The possibility that Enel X is abandoning the North American market and rendering thousands
+of commercial chargers inoperable, while also reducing the functionality of consumers' chargers
+at such short notice because it has discovered an unpatchable security flaw is concerning. A
+company should not have the ability to sidestep all responsibility to its customers because one
+of its vendors has decided not to patch a security flaw in their device."
+
 ## How we're keeping JuiceBoxes running
 
 Now that Enel X is shutting down key infrastructure for these devices, Juice Rescue is organizing a collective effort aimed at keeping JuiceBoxes running with full functionality:
@@ -21,8 +31,6 @@ Now that Enel X is shutting down key infrastructure for these devices, Juice Res
   * Direct public pressure, policy, and legal strategies that could help Enel X meet its promises to customers/clients, and its obligations under the law, including [right to repair](https://en.wikipedia.org/wiki/Right_to_repair) laws
 
 ## JuiceBox FAQ
-
-**Update Oct 9: We have compiled a [short PDF guide on Preparing for Enel X Way's Abandonment of JuiceBox EV Charging Software](documents/2024-10-09-preparing-for-enel-x-juicebox-software-abandonment.pdf)**
 
 **Will my JuiceBox shut down on October 11?** *Residential JuiceBoxes will continue to charge fine, even after Enel X shuts down their infrastructure.* However, after this day, users won't be able to change the settings, monitor charging, schedule or initiate charging, because these functions are dependent on Enel X's network and app. Commercial users and those with special deals with power companies, on the other hand, may not be able to charge at all; they should contact their commercial operator or power company with questions.
 

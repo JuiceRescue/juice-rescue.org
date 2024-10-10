@@ -22,6 +22,8 @@ Now that Enel X is shutting down key infrastructure for these devices, Juice Res
 
 ## JuiceBox FAQ
 
+**Update Oct 9: We have compiled a [short PDF guide on Preparing for Enel X Way's Abandonment of JuiceBox EV Charging Software](documents/2024-10-09-preparing-for-enel-x-juicebox-software-abandonment.pdf)**
+
 **Will my JuiceBox shut down on October 11?** *Residential JuiceBoxes will continue to charge fine, even after Enel X shuts down their infrastructure.* However, after this day, users won't be able to change the settings, monitor charging, schedule or initiate charging, because these functions are dependent on Enel X's network and app. Commercial users and those with special deals with power companies, on the other hand, may not be able to charge at all; they should contact their commercial operator or power company with questions.
 
 **Will my JuiceBox become a fire hazard?** Probably not. But if your circuit breaker and wiring are not properly matched (i.e., sized too low) to the output of your JuiceBox, then you should make sure to configure the charger and lower the maximum output before October 11. Otherwise the charger may draw more amps than your system can provide, which could either trip your breaker or become a fire hazard. efforts like [Juicepassproxy](https://github.com/JuiceRescue/juicepassproxy) should eventually make it easier for users to modify these settings even after Enel X shuts down.

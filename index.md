@@ -12,13 +12,9 @@ Here are three things you can do:
 
 **Update Oct 9**: We have compiled a [short PDF guide on Preparing for Enel X Way's Abandonment of JuiceBox EV Charging Software](documents/2024-10-09-preparing-for-enel-x-juicebox-software-abandonment.pdf)
 
-**Update Oct 10**: Contributors to Juice Rescue have worked with Consumer Reports to send a letter to the U.S. Federal Trade Commission urging. Here are two quotes from the longer [letter asking the FTC to investigate the behavior of Enel X](documents/2024-10-10-Juicebox-letter-to-FTC.pdf): 
+**Update Oct 10**: Contributors to Juice Rescue have worked with Consumer Reports to send a letter to the U.S. Federal Trade Commission urging. Here are two quotes from the longer [letter asking the FTC to investigate the behavior of Enel X](documents/2024-10-10-Juicebox-letter-to-FTC.pdf). And here's 
 * "The decision to stop supporting the app that thousands of consumers use to control the charger and the complete loss of functionality for the commercial EV chargers represents an egregious example of how companies are controlling the functionality of a product even after the consumer has purchased the device."
-* "The possibility that Enel X is abandoning the North American market and rendering thousands
-of commercial chargers inoperable, while also reducing the functionality of consumers' chargers
-at such short notice because it has discovered an unpatchable security flaw is concerning. A
-company should not have the ability to sidestep all responsibility to its customers because one
-of its vendors has decided not to patch a security flaw in their device."
+* See the letter on the Consumer Reports page: [Consumer Reports, U.S. PIRG, and 60 self-reported owners of JuiceBox EV chargers call on the FTC to investigate Enel X after abruptly discontinuing sales and support of its EV chargers](https://advocacy.consumerreports.org/research/consumer-reports-u-s-pirg-and-60-self-reported-owners-of-juicebox-ev-chargers-call-on-the-ftc-to-investigate-enel-x-after-abruptly-discontinuing-sales-and-support-of-its-ev-chargers/). We are deeply grateful for everyone at the CR team for working with us so quickly to establish the facts collaborate on a productive path with federal regulators.
 
 ## How we're keeping JuiceBoxes running
 

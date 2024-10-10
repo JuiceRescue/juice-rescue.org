@@ -12,7 +12,7 @@ Here are three things you can do:
 
 **Update Oct 9**: We have compiled a [short PDF guide on Preparing for Enel X Way's Abandonment of JuiceBox EV Charging Software](documents/2024-10-09-preparing-for-enel-x-juicebox-software-abandonment.pdf)
 
-**Update Oct 10**: Contributors to Juice Rescue have worked with Consumer Reports to send a letter to the U.S. Federal Trade Commission urging them to investigate the behavior of Enel X. Here are two quotes from the longer [letter asking the FTC to investigate the behavior of Enel X](documents/2024-10-10-Juicebox-letter-to-FTC.pdf): 
+**Update Oct 10**: Contributors to Juice Rescue have worked with Consumer Reports to send a letter to the U.S. Federal Trade Commission urging. Here are two quotes from the longer [letter asking the FTC to investigate the behavior of Enel X](documents/2024-10-10-Juicebox-letter-to-FTC.pdf): 
 * "The decision to stop supporting the app that thousands of consumers use to control the charger and the complete loss of functionality for the commercial EV chargers represents an egregious example of how companies are controlling the functionality of a product even after the consumer has purchased the device."
 * "The possibility that Enel X is abandoning the North American market and rendering thousands
 of commercial chargers inoperable, while also reducing the functionality of consumers' chargers

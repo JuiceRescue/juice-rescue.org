@@ -7,7 +7,7 @@ Here are three things you can do:
 * **Complete this short form to <a href="https://forms.gle/pz8iPAYeZ7cu3ZTq7" class="button">tell us about you</a>**, describe your needs, and share ideas for how you can help. We will use this information for collective organizing and may email you with an occasional update. We will not share your contact information without your permission.
 <!--* **Add your story in the comments below**, if you want journalists and consumer advocacy groups to see your story-->
 * **If you are a writer, organizer, designer, or software developer**, please consider joining the “**Juice Rescue**” open source software project:  
-  * [Join the Discord Server](https://discord.gg/rBgbGZsA)
+  * [Join the Discord Server](https://discord.gg/JcZr6RSKE3)
   * Follow the [Juice Rescue Project](https://github.com/JuiceRescue) on Github
 
 **Update Oct 9**: We have compiled a [short PDF guide on Preparing for Enel X Way's Abandonment of JuiceBox EV Charging Software](documents/2024-10-09-preparing-for-enel-x-juicebox-software-abandonment.pdf)

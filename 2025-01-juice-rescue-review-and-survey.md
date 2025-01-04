@@ -4,7 +4,7 @@
 
 Two months after the [Juice Rescue](https://juice-rescue.org/) project formed to support people faced with the end of their JuiceBox chargers, our community of over 200 has already helped people understand the situation, keep their chargers running, and [advocate for change in partnership with Consumer Reports](https://advocacy.consumerreports.org/press_release/ftc-software-tethering/). **THANK YOU\!**
 
-In response to the pressure, Enel X way has kept the app running (for now) and has sold the company to another business, who haven't yet announced any plans for the network. Furthermore, the maker of the JuiceBox's underlying chip has promised that they will not be offering any more security updates to the original board, after a [security vulnerability was released](https://vicone.com/blog/from-pwn2own-automotive-a-stack-based-buffer-overflow-vulnerability-in-juicebox-40-smart-ev-charging-station).
+In response to the pressure, Enel X way has kept the app running (for now) and has sold the company to another business, who haven't yet announced any plans. Furthermore, the maker of the JuiceBox's underlying chip has promised not to offer any more security updates after a [security vulnerability was released](https://vicone.com/blog/from-pwn2own-automotive-a-stack-based-buffer-overflow-vulnerability-in-juicebox-40-smart-ev-charging-station).
 
 So Juice Rescue is deciding what to take on next. We have a fiscal sponsor who can process donations, volunteers who are excited to work with code and/or documentation, and many people who have offered to test out solutions.
 

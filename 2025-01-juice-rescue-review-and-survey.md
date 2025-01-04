@@ -1,4 +1,4 @@
-## How Can Juice Rescue Save Your EV Charger \- A Survey
+## How Can Juice Rescue Save Your EV Charger? \- A Survey
 
 *January 4, 2025*
 

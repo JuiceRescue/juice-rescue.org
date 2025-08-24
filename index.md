@@ -1,18 +1,25 @@
 # Juice Rescue ⚡🔌🚗
 
-Do you own a JuiceBox charger? Has your organization, power company, or government energy board developed arrangements with consumers that rely on the JuiceBox? Are you frustrated and worried that [Enel X Way is shutting down its North American operations](https://www.juiceboxnorthamerica.com/), including key software the chargers rely on?
+Do you own a Juicebox charger? Has your organization, power company, or government energy board developed arrangements with consumers that rely on the JuiceBox? Are you frustrated and worried that [Enel X Way shut down its North American operations](https://www.juiceboxnorthamerica.com/), including key software the chargers rely on?
 
-Here are three things you can do:
+**Update August 24, 2025**: From October 2024 - August 2025, the Juice Rescue community brought together hundreds of owners of Juiceboxes to organize to keep our vehicles charged.
 
-* **Complete this short form to <a href="https://forms.gle/pz8iPAYeZ7cu3ZTq7" class="button">tell us about you</a>**, describe your needs, and share ideas for how you can help. We will use this information for collective organizing and may email you with an occasional update. We will not share your contact information without your permission.
-<!--* **Add your story in the comments below**, if you want journalists and consumer advocacy groups to see your story-->
-* **If you are a writer, organizer, designer, or software developer**, please consider joining the “**Juice Rescue**” open source software project:  
-  * [Join the Discord Server](https://discord.gg/JcZr6RSKE3)
-  * Follow the [Juice Rescue Project](https://github.com/JuiceRescue) on Github
+You can read the full story of this group here: [Escaping the chains of tethered products: the Juice Rescue project ](https://natematias.com/portfolio/2025-08-22-unchaining-from-broken-software-tethers/).
 
-**Update Oct 9**: We have compiled a [short PDF guide on Preparing for Enel X Way's Abandonment of JuiceBox EV Charging Software](documents/2024-10-09-preparing-for-enel-x-juicebox-software-abandonment.pdf)
+This page is now an archive of those efforts. Since the last update, we:
 
-**Update Oct 10**: Contributors to Juice Rescue have worked with Consumer Reports to send a letter to the U.S. Federal Trade Commission urging. Here are two quotes from the longer [letter asking the FTC to investigate the behavior of Enel X](documents/2024-10-10-Juicebox-letter-to-FTC.pdf). And here's 
+* Organized [a Discord channel](https://discord.gg/JcZr6RSKE3) (still available, though with less activity) to coordinate
+* Supported many people to get data out of their Juiceboxes, with the [Juicepassproxy software](https://github.com/JuiceRescue/juicepassproxy)
+* Surveyed people and collaborated to get people access to software fixes, as well as supported a successful open hardware effort by OpenEVSE. If you still need to fix your Juicebox, your best option is to replace the board with one from OpenEVSE, available here:
+ * [Juicebox V2 replacement board](https://store.openevse.com/products/replacement-electronics-for-juicebox-v2-plastic-grey-and-white?srsltid=AfmBOopa1qkZpI3o8O6fTkRLA9b2WhkBtwWRB51iKcAUMNWw9MzYKbpS)
+ * [Juicebox V1 replacement board](https://store.openevse.com/products/replacement-electronics-for-juicebox-v1-metal-black-and-orange?srsltid=AfmBOopOxw8iy3Nij97i6MbjodzHQBIhe5625OUXm3x0lghd4hE9-oxt)
+* Developed an entity that could take on donations and pay for this, though this turned out not to be needed (thanks everyone!)
+
+<div align="center"><hr style="width:50%"/></div>
+
+**Update Oct 9 2024**: We have compiled a [short PDF guide on Preparing for Enel X Way's Abandonment of JuiceBox EV Charging Software](documents/2024-10-09-preparing-for-enel-x-juicebox-software-abandonment.pdf)
+
+**Update Oct 10 2024**: Contributors to Juice Rescue have worked with Consumer Reports to send a letter to the U.S. Federal Trade Commission urging. Here are two quotes from the longer [letter asking the FTC to investigate the behavior of Enel X](documents/2024-10-10-Juicebox-letter-to-FTC.pdf). And here's 
 * "The decision to stop supporting the app that thousands of consumers use to control the charger and the complete loss of functionality for the commercial EV chargers represents an egregious example of how companies are controlling the functionality of a product even after the consumer has purchased the device."
 * Here's the story on the CR site: [Consumer Reports, U.S. PIRG, and 60 self-reported owners of JuiceBox EV chargers call on the FTC to investigate Enel X after abruptly discontinuing sales and support of its EV chargers](https://advocacy.consumerreports.org/research/consumer-reports-u-s-pirg-and-60-self-reported-owners-of-juicebox-ev-chargers-call-on-the-ftc-to-investigate-enel-x-after-abruptly-discontinuing-sales-and-support-of-its-ev-chargers/). We are deeply grateful for everyone at the CR team for working with us so quickly to establish the facts collaborate on a productive path with federal regulators.
 
